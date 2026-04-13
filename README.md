@@ -45,9 +45,3 @@ Inventory and sales system built with PHP and PostgreSQL.
 💻 GitHub: https://github.com/jsrueda1  
 🔗 LinkedIn: https://www.linkedin.com/in/juan-sebastian-19a098324/
 
-## ⚡ Installation (Optional)
-
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-open index.html
