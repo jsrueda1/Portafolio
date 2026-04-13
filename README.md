@@ -4,7 +4,7 @@ Welcome to my personal portfolio website.
 This project showcases my skills, projects, and experience as a full-stack developer.
 
 ## 🚀 Live Demo
-👉 https://github.com/jsrueda1/Portafolio
+👉 https://jsrueda1.github.io/Portafolio/
 
 ## 🧠 About Me
 I am a passionate full-stack developer focused on building scalable, high-performance, and user-centered digital solutions.
